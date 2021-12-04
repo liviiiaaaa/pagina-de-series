@@ -1,0 +1,16 @@
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.csproj.AssemblyReference.cache
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.AssemblyInfoInputs.cache
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.AssemblyInfo.cs
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.exe
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.deps.json
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.runtimeconfig.json
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.runtimeconfig.dev.json
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.dll
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\ref\PaginaDeSeries.dll
+C:\Users\Bianca Seixas\PaginaDeSeries\bin\Debug\net5.0\PaginaDeSeries.pdb
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.dll
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\ref\PaginaDeSeries.dll
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.pdb
+C:\Users\Bianca Seixas\PaginaDeSeries\obj\Debug\net5.0\PaginaDeSeries.genruntimeconfig.cache

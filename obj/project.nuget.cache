@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYFlDVzXIvxaSDPUPpfhwlXwcFhn0575rUwok0ML3ULKSk6g9nCrImWocIw7NirVckPoEUK8HNcEiI5ac0qjUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bianca Seixas\\PaginaDeSeries\\PaginaDeSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bianca Seixas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
